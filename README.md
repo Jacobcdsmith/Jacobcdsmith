@@ -13,7 +13,7 @@ Profile website: [jacobcdsmith.github.io](https://github.com/Jacobcdsmith/jacobc
 - [jclaw-framework](https://github.com/Jacobcdsmith/jclaw-framework) — Parallel agent framework with gateway, plugins, channels, CLI, and runtime.
 - [agent-flow-canvas](https://github.com/Jacobcdsmith/agent-flow-canvas) — Visual TypeScript project for agent flow modeling and orchestration.
 - [hermes-mobile](https://github.com/Jacobcdsmith/hermes-mobile) — TypeScript mobile-focused project for modern agent/application workflows.
-- [MCPStarfleetCommand-](https://github.com/Jacobcdsmith/MCPStarfleetCommand-) — Web-based command-style project aligned with MCP/agent-driven interfaces.
+- [MCPStarfleetCommand-](https://github.com/Jacobcdsmith/MCPStarfleetCommand-) — Web-based command-style project aligned with MCP/agent-driven interfaces (repository uses this exact name).
 - [planatorium](https://github.com/Jacobcdsmith/planatorium) — Python project for planning-oriented automation and workflow experimentation.
 
 ## Security + Infrastructure Projects
@@ -23,8 +23,8 @@ Profile website: [jacobcdsmith.github.io](https://github.com/Jacobcdsmith/jacobc
 ## Web, Portfolio, and Product Surface Projects
 - [jacobcdsmith.github.io](https://github.com/Jacobcdsmith/jacobcdsmith.github.io) — Personal landing page and web presence.
 - [rf-digital-card](https://github.com/Jacobcdsmith/rf-digital-card) — Digital business card project.
-- [Myonelinehere](https://github.com/Jacobcdsmith/Myonelinehere) — TypeScript web/application project.
-- [README](https://github.com/Jacobcdsmith/README) — About/profile content repository.
+- [Myonelinehere](https://github.com/Jacobcdsmith/Myonelinehere) — TypeScript web/application project (repository uses this exact name).
+- [README](https://github.com/Jacobcdsmith/README) — Separate about/profile content repository.
 - [technical-documentation-archive](https://github.com/Jacobcdsmith/technical-documentation-archive) — Curated technical documentation and model knowledge archive.
 - [Jacobcdsmith](https://github.com/Jacobcdsmith/Jacobcdsmith) — Special profile repository powering this README.
 
